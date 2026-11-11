@@ -37,5 +37,4 @@ print(prediction.shape)  # torch.Size([2, 24, 11])
 
 Inputs and outputs use `[batch, time, variables]`. Example settings illustrate
 the interface. Training drivers, datasets, checkpoints, and plotting code are
-not included. Source hashes are recorded in `PROVENANCE.json`; the inherited
-license is retained in `LICENSE`.
+not included. Source hashes are recorded in `PROVENANCE.json`; 
